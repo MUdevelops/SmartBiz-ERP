@@ -30,6 +30,20 @@
 
 <br><br>
 
+# SmartBiz-ERP
+
+## About
+
+SmartBiz-ERP is an ERP project designed to organize business-related functionality in a single application.
+
+## Project Structure
+
+- `SmartBizERP.java` — main application source
+- `Screenshots/` — project screenshots
+- `LICENSE` — project license
+
+---
+<br><br>
 > **A complete JavaFX desktop ERP platform designed to bring employees, inventory, sales, purchases, expenses, payroll, reporting, and everyday business operations into one unified system.**
 
 </div>
